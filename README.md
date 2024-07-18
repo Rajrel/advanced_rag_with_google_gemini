@@ -4,3 +4,6 @@ Build Advanced RAG applications using Google Gemini, LangChain and Langgraph
 ### Associated Articles: 
 1. Optimizing Semi-Structured RAG: Overcoming Challenges in Table Fragmentation and Semantic Embedding
 [Optimizing Semi-Structured RAG](https://medium.com/@dpokhrel/optimizing-semi-structured-rag-overcoming-challenges-in-table-fragmentation-and-semantic-embedding-f56b6ab88b0b)
+
+2. From Spaghetti Schema to SQL Symphony: Generating Queries with Multi-Modal RAG!
+[From Spaghetti Schema to SQL Symphony](https://medium.com/@dpokhrel/from-spaghetti-schema-to-sql-symphony-generating-queries-with-multi-modal-rag-3e4e7a8dc6e1)
